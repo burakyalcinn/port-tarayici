@@ -13,3 +13,7 @@ Kullanıcıdan bir IP adresi ve port aralığı alarak, bu IP üzerinde hangi po
 
 ```bash
 python3 port_tarayici.py
+
+## Uyarı
+Bu araç sadece eğitim amacıyla kullanılır.
+İzinsiz sistemlerde tarama yapmak etik ve yasal değildir.
